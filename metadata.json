@@ -1,0 +1,6 @@
+{
+  "name": "Galeyr Cargo Agency",
+  "description": "Nidaamka Maamulka Xamuulka ee Galeyr Tours and Travel Cargo Agency oo leh automation-ka onEdit, ALAABTA TIMI, ALAAB DIRIS, rasiidhyo rasmi ah, iyo diiwaangelinta gobolada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
